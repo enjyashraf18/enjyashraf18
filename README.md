@@ -13,7 +13,7 @@ Exploring **Machine Learning & Data Analysis**
 
 
 ## Get in Touch
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enjyashraf18@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enjy-ashraf-376892247/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enjyashraf18@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enjy-ashraf-376892247/)
 
 # Languages and Tools
 <p align="left">
