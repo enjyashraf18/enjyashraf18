@@ -3,7 +3,7 @@
 
 **Backend Web Developer** 
 
-Ex **Full-Stack Intern @Fotopia Technologies**, where I built an **annotation tool** 
+Ex **Full-Stack Intern @Fotopia Technologies**
 
 Currently developing a **File Encryption Tool** 
 
