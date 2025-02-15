@@ -5,8 +5,6 @@
 
 Ex **Full-Stack Intern @Fotopia Technologies**
 
-Currently developing a **File Encryption Tool** 
-
 Exploring **Machine Learning & Data Analysis** 
 
 
